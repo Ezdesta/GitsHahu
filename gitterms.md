@@ -13,4 +13,5 @@ Git Command:
         Push    ==> upload
         pull    ==> download
 
-    to clone
+        to clone a repo :
+            ==> 
