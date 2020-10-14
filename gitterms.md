@@ -4,7 +4,7 @@
 	    Repository  ==> folder or complete project
 	    Github   --- web site where you host your repositors
 	    md ==> mark down 
-	myGit Command:
+	basicGit Command:
 	    clone ==> bring a repository hosted somewhere else
 	    add   ==> track and change files in Git
 	    commite ==> save 
@@ -13,7 +13,7 @@
 
 	    to clone a repo :
 		==> 
-	Git_Basics:
+	addGit_Basics:
 		git clone -b branch_name --single-branch --depth 1 clone_link
 			• -b is for after cloning repo in local Directory which should be the default branch to point
 			• --single-branch it will clone only specified branch in -b
