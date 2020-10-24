@@ -84,5 +84,5 @@
 	git log
 		• it gives commit history of a repo
 	  if you want only last three commits then you can do git log -3.
-	  if you want commits in oneline then the command will be git log --oneline
+	  if you want commits in oneline then the command will be git log --oneline .
 
